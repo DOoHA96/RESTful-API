@@ -1,0 +1,26 @@
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\new ConsoleDotNet.exe
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\new ConsoleDotNet.deps.json
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\new ConsoleDotNet.runtimeconfig.json
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\new ConsoleDotNet.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\new ConsoleDotNet.pdb
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.AssemblyInfoInputs.cache
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.AssemblyInfo.cs
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\refint\new ConsoleDotNet.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.pdb
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.genruntimeconfig.cache
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\ref\new ConsoleDotNet.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\NAudio.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new Cons.B5E9772F.Up2Date
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\new ConsoleDotNet.csproj.ResolveComReference.cache
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\fg\source\repos\MyMVC\MVC1\new ConsoleDotNet\new ConsoleDotNet\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
